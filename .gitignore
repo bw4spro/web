@@ -1,0 +1,16 @@
+# C build artifacts
+*.o
+*.out
+*.exe
+
+# WebAssembly build artifacts
+*.wasm
+
+# Node.js dependencies
+node_modules/
+
+# Emscripten cache
+.emscripten_cache/
+
+# VSCode settings
+.vscode/
